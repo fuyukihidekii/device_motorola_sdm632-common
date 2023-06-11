@@ -114,7 +114,8 @@ PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.5 \
     camera.device@3.2-impl:32 \
     libbson.vendor \
-    libxml2
+    libxml2 \
+    Camera2
 
 # Codec2 modules
 PRODUCT_PACKAGES += \
